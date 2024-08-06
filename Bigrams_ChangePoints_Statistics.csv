@@ -1,0 +1,46 @@
+Keyword	# of Changes	$\mu$	$\sigma$	Min	Max
+Deep learning, Convolutional neural network.txt	1	0.012		0.012	0.012
+Clustering, Data.txt	1	0.0108		-0.0108	-0.0108
+Machine learning, Algorithm.txt	2	0.0108	0.0	-0.0108	0.0108
+Neural networks, Mnist.txt	1	0.0108		0.0108	0.0108
+.ds, Store	0				
+Machine learning, Supervised learning.txt	2	0.0108	0.0	-0.0108	-0.0108
+Deep learning, Artificial intelligence.txt	2	0.0108	0.0	0.0108	0.0108
+Data, Classification.txt	1	0.0108		-0.0108	-0.0108
+Machine learning, Prediction.txt	2	0.0108	0.0	-0.0108	-0.0108
+Machine learning, Robustness.txt	2	0.0127	0.0009	0.012	0.0133
+Machine learning, Computer vision.txt	2	0.0108	0.0	-0.0108	-0.0108
+Machine learning, Accuracy.txt	9	0.011	0.0004	-0.012	0.0108
+Federated learning, Privacy.txt	1	0.0108		-0.0108	-0.0108
+Machine learning, Optimization.txt	8	0.0114	0.0009	-0.012	0.0133
+Stochastic, Optimization.txt	1	0.0108		0.0108	0.0108
+Inference, Models.txt	2	0.0108	0.0	-0.0108	-0.0108
+Machine learning, Algorithms.txt	11	0.0113	0.0008	-0.0108	0.0133
+Adversarial attacks, Robustness.txt	4	0.0114	0.0007	-0.0108	0.012
+Machine learning, Regression.txt	3	0.0108	0.0	-0.0108	-0.0108
+Machine learning, Stochastic gradient descent.txt	1	0.012		0.012	0.012
+Deep learning, Transfer learning.txt	2	0.0114	0.0009	0.0108	0.012
+Learning, Algorithms.txt	4	0.0123	0.0018	-0.0145	-0.0108
+Machine learning, Federated learning.txt	11	0.0117	0.0011	-0.0145	0.012
+Machine learning, Deep learning.txt	156	0.0141	0.0032	-0.0229	0.0229
+Machine learning, Generalization.txt	2	0.0108	0.0	-0.0108	0.0108
+Clustering, Classification.txt	5	0.0113	0.0011	-0.0133	0.0108
+Learning, Data.txt	3	0.0112	0.0007	-0.0108	0.012
+Natural language processing, Large language models.txt	8	0.0134	0.0014	-0.0157	0.0145
+Machine learning, Fairness.txt	4	0.0114	0.0007	-0.012	0.012
+Machine learning, Neural network.txt	2	0.012	0.0	-0.012	0.012
+Machine learning, Natural language processing.txt	1	0.0108		0.0108	0.0108
+Deep learning, Classification.txt	10	0.0134	0.0016	-0.0157	0.0133
+Deep learning, Accuracy.txt	3	0.0108	0.0	0.0108	0.0108
+Deep learning, Convolutional neural networks.txt	1	0.0108		-0.0108	-0.0108
+Neural networks, Classification.txt	1	0.0108		0.0108	0.0108
+Large language models, Fine-tuning.txt	3	0.0141	0.0018	-0.0157	0.0145
+Deep learning, Computer vision.txt	17	0.0115	0.0011	-0.0133	0.0145
+Machine learning, Classification.txt	26	0.0126	0.0023	-0.0145	0.0193
+Training, Model.txt	2	0.0108	0.0	0.0108	0.0108
+Regression, Classification.txt	6	0.0112	0.0006	-0.012	0.012
+Deep learning, Neural networks.txt	90	0.0123	0.002	-0.0193	0.0193
+Machine learning, Artificial intelligence.txt	13	0.0116	0.0008	-0.012	0.0133
+Neural networks, Supervised learning.txt	6	0.0116	0.0006	0.0108	0.012
+Learning, Inference.txt	2	0.0108	0.0	-0.0108	-0.0108
+Machine learning, Neural networks.txt	52	0.012	0.0015	-0.0169	0.0145

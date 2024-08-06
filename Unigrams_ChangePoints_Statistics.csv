@@ -1,0 +1,17 @@
+	Keyword	# of Changes	$\mu$	$\sigma$	Min	Max
+0	Federated Learning	2	0.0313	0.0	0.0313	0.0313
+1	Deep Neural Networks	3	0.0329	0.0025	-0.0337	0.0349
+2	Covid'19	2	0.0337	0.0017	-0.0325	0.0349
+3	Computer Vision	1	0.0313		-0.0313	-0.0313
+4	Bayesian Networks	1	0.0313		-0.0313	-0.0313
+5	Algorithm	2	0.0313	0.0017	-0.0325	-0.0301
+6	Convolutional Neural Networks	1	0.0337		0.0337	0.0337
+7	Artificial Intelligence	1	0.0301		-0.0301	-0.0301
+8	Accuracy	2	0.0331	0.0043	-0.0361	-0.0301
+9	Machine Learning	57	0.0411	0.0093	-0.0699	0.0663
+10	Clustering	1	0.0313		-0.0313	-0.0313
+11	Reinforcement Learning	11	0.0335	0.0031	-0.0361	0.0398
+12	Optimization	1	0.012		0.012	0.012
+13	Large Language Models	2	0.0319	0.0009	-0.0313	0.0325
+14	Classification	6	0.0355	0.0058	-0.047	0.0349
+15	Deep Learning	7	0.0339	0.0053	-0.0458	0.0313
